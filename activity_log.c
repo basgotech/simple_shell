@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * history_file_query - gets the history file of shell
+ * history_file_query - gets the history file of shell.
  * @data_: parameter struct
  * Return: allocated string containg history file
  */
