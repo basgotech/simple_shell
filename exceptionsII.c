@@ -1,8 +1,8 @@
 #include "consoleShell.h"
 
 /**
- * _safe_str_to_int - converts a string to an integer
- * @str_con: the string to be converted
+ * _safe_str_to_int - converts a string to an integer.
+ * @str_con: the string to be converted.
  * Return: 0 if no numbers
  */
 int _safe_str_to_int(char *str_con)
