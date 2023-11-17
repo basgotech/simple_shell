@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * reset_info - initializes info_t struct
+ * reset_info - initializes info_t struct.
  * @data_: struct address
  */
 void reset_info(info_t *data_)
