@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- **fill_memory - fills memory with a constant byte
+ **fill_memory - fills memory with a constant byte.
  *@memoa: the pointer to the memory area
  *@byf: the byte to fill *s with
  *@am: the amount of bytes to be filled
