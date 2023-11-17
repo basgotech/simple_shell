@@ -1,9 +1,9 @@
 #include "consoleShell.h"
 
 /**
- * sequence_verification - test if current char
+ * sequence_verification - test if current char.
  * @data_t: the parameter struct
- * @buffer: the char buffer
+ * @buffer: the char buffer.
  * @st: address of current position in buf
  * Return: 1 if chain delimeter, 0 otherwise
  */
