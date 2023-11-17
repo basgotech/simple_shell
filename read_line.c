@@ -1,10 +1,10 @@
 #include "consoleShell.h"
 
 /**
- * input_buf - buffers chained commands
+ * input_buf - buffers chained commands.
  * @data_t: parameter struct
  * @buffer: address of buffer
- * @get_len: address of len var
+ * @get_len: address of len var.
  * Return: bytes read
  */
 ssize_t input_buf(info_t *data_t, char **buffer, size_t *get_len)
