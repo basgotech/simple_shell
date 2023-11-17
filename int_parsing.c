@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * real_time_com - returns true
+ * real_time_com - returns true.
  * @data_: struct address
  * Return: 1 if interactive mode, 0 otherwise
  */
