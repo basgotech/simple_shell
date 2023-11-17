@@ -1,11 +1,11 @@
 #include "consoleShell.h"
 
 /**
- **str_sub_copy - copies a string
+ **str_sub_copy - copies a string.
  *@target: the destination string to be copied to
  *@origin: the source string
  *@n: the amount of characters to be copied
- *Return: the concatenated string
+ *Return: the concatenated string.
  */
 char *str_sub_copy(char *target, char *origin, int n)
 {
