@@ -1,8 +1,8 @@
 #include "consoleShell.h"
 
 /**
- * hShell - main shell loop
- * @details: the parameter & return info struct
+ * hShell - main shell loop.
+ * @details: the parameter & return info struct.
  * @arg_v: the argument vector from main()
  * Return: 0 on success, 1
  */
