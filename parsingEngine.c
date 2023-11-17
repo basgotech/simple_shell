@@ -1,8 +1,8 @@
 #include "consoleShell.h"
 
 /**
- * validate_cmd - determines if a file is an executable command
- * @cont: the info struct
+ * validate_cmd - determines if a file is an executable command.
+ * @cont: the info struct.
  * @routt: path to the file
  * Return: 1 if true, 0 otherwise
  */
