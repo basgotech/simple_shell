@@ -1,9 +1,9 @@
 #include "consoleShell.h"
 
 /**
- * generate_node - adds a node to the start of the list
+ * generate_node - adds a node to the start of the list.
  * @upp: address of pointer to head node
- * @str_col: str field of node
+ * @str_col: str field of node.
  * @numberr: node index used by history
  * Return: size of list
  */
