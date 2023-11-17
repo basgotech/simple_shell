@@ -3,7 +3,7 @@
 /**
  * string_size - returns the length of a string
  * @str_check: the string whose length to check
- * Return: integer length of string
+ * Return: integer length of string.
  */
 int string_size(char *str_check)
 {
