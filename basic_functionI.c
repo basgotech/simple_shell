@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * _custom_exit - exits the shell
+ * _custom_exit - exits the shell.
  * @data_env: Structure containing potential
  *  Return: exits with a given exit status
  */
