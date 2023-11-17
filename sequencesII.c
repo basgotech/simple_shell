@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * get_list_size - determines length of linked list
+ * get_list_size - determines length of linked list.
  * @ptr_f: pointer to first node
  * Return: size of list
  */
