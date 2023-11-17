@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * release_blocks - frees a pointer and NULLs the address
+ * release_blocks - frees a pointer and NULLs the address.
  * @ad_ptr: address of the pointer to free
  *
  * Return: 1 if freed, otherwise 0.
