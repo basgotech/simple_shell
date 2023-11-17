@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * retrieve_custom_env - prints the current environment
+ * retrieve_custom_env - prints the current environment.
  * @data_: Structure containing potential
  * Return: Always 0
  */
