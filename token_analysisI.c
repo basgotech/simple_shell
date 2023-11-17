@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * **tokenize_str - splits a string into words
+ * **tokenize_str - splits a string into words.
  * @strr: the input string
  * @del: the delimeter string
  * Return: a pointer to an array of strings, or NULL on failure
