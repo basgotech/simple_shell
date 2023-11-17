@@ -1,9 +1,9 @@
 #include "consoleShell.h"
 
 /**
- * get_env_data - returns the string
+ * get_env_data - returns the string.
  * @data_t: Structure containing potential
- * Return: Always 0
+ * Return: Always 0.
  */
 char **get_env_data(info_t *data_t)
 {
