@@ -1,7 +1,7 @@
 #include "consoleShell.h"
 
 /**
- * _custom_history - displays the history
+ * _custom_history - displays the history.
  * @data_: Structure containing potenti
  *  Return: Always 0
  */
