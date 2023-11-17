@@ -1,8 +1,8 @@
 #include "consoleShell.h"
 
 /**
- *error_output - prints an input string
- * @char_coll: the string to be printed
+ *error_output - prints an input string.
+ * @char_coll: the string to be printed.
  * Return: Nothing
  */
 void error_output(char *char_coll)
