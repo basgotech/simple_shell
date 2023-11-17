@@ -3,7 +3,7 @@
 /**
  * str_clone - copies a string
  * @target: the destination
- * @origin: the source
+ * @origin: the source.
  * Return: pointer to destination
  */
 char *str_clone(char *target, char *origin)
